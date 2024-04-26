@@ -1,0 +1,7 @@
+
+# Enviroments ...
+.env**
+.venv/
+
+# omni files ...
+data/*.txt 
